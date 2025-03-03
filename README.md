@@ -1,2 +1,2 @@
 # POWER-HOUSE
-my first  repository
+my first  repository.
